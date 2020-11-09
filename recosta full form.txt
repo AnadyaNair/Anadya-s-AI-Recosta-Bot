@@ -1,0 +1,22 @@
+THE FULL FORM OF RECOSTA IS AS FOLLOWS :
+
+Reasoning 
+Enabled
+Computer
+Operated
+System
+Talking
+Administration
+
+R-E-C-O-S-T-A is a automated command achieving ai bot. Basically a voice recogniser 
+desktop assistant. Yes, it is like the "Iron Man's Jarvis and Friday".
+You can give recosta commands and recosta will answer you back. 🤖
+
+*As of now, the bot is in development.
+
+pips for pyttsx3, speech_recognition, wikipidea
+
+need to add 146000 questions for recosta to answer.🙂
+
+if on Windows, use the following command to upgrade the pip 👉                    python -m pip install -U pip
+if on mac or linux, use the following command to upgrade the pip 👉               pip install -U pip       

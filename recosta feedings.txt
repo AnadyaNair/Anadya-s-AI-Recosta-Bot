@@ -1,0 +1,66 @@
+Theses are the recosta feedings :-
+
+1] * THE MAIN INTRODUCTION *
+Hello there ! I am Recosta ! Your personal AI assistant !
+I am good to be here, give me commands and I will answer it to you back !
+Waiting for your command !
+Thankyou !
+
+
+2] * WHAT IS THE TIME *
+The time is "Hour, Minutes, Seconds"
+
+
+3] * KEEP A TIMER OF ___ SEC/HOUR/MINUTE *
+The timer is all set to be started !
+Do you want me to play any music with it ?
+~ Answer by the user.
+
+
+4] * PLAY MUSIC *
+Plays the music 
+    or
+{This statement can be used}  What application do you want me to play the music with ?
+~ Answer can be given by the user.
+
+
+5] * WHO ARE YOU ? *
+Hello! I am Recosta, your personal AI companion and an assistant. Give me commands and I will 
+answer it you back! R-E-C-O-S-T-A stands for the following:
+Reasoning
+Enabled
+Computer
+Operated
+System
+Talking
+Administration
+Waiting for your command! Thankyou!
+
+
+6] * Search for ___ in Wikipedia *
+Searches in Wikipedia
+
+
+7] * WHO MADE YOU? *
+I am Recosta, an AI assistant created by Anadya Nair
+
+
+8] * TELL YOUR BIRTHDATE * OR * TELL YOUR BIRTHDAY *
+My birthday is on 23rd September. I was first made on 23rd September 2020.
+But I am developed everytime I get something new.
+
+
+9] * TELL ME THE NEWS*
+Tells the news. 
+
+
+10] *SEND AN EMAIL TO ___*
+To whom should I send an Email ?
+~ Answer by user
+
+
+11] *OPEN "ANY WEBSITE NAME" *
+Opening "ANY WEBSITE NAME"
+
+12] *OPEN ANY APPLICATION * 
+Opens the application 

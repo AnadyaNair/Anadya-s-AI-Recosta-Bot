@@ -1,6 +1,7 @@
 # RECOSTA BOT BY ANADYA NAIR
 # RECOSTA IS AN AI DESKTOP ASSISTANT
 # IF YOU GIVE COMMAND TO RECOSTA BOT, IT WILL ANSWER IT YOU BACK!
+# © Anadya Nair.
 
 
 import pyttsx3                      # pip install pyttsx3
